@@ -1,0 +1,66 @@
+nav
+{
+    background-color: #526D82;
+}
+
+#mainDiv {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#form {
+    width: 40%;
+    padding: 50px;
+    background-color: #9DB2BF;
+    border-radius: 20px;
+}
+
+#addBtn
+{
+    width: 20%;
+}
+
+#todoText,.todos
+{
+    background-color: rgb(198, 216, 232);
+    border-color:  rgb(236, 241, 245);
+}
+
+.todos
+{
+    background-color: #DDE6ED;
+    border-color:  rgb(60, 154, 236);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+    margin-top: 25px;
+}
+
+#motiQuote:hover
+{
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.icons
+{
+    cursor: pointer;
+}
+
+.icons:hover
+{
+    margin-top: 5px;
+}
+
+#dataDiv
+{
+    font-size: 12px;
+    margin-bottom: -30px;
+}
+
+.finished
+{
+    text-decoration: line-through;
+}
